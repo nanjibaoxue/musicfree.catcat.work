@@ -1,8 +1,10 @@
 ---
-outline: deep
-prev: '桌面版-如何安装应用'
-next: '桌面版-如何安装主题包'
+
+大纲：深入
+上一个：'桌面版-如何安装应用'
+下一页：'桌面版-如何安装主题包'
 ---
+
 
 # 如何安装插件
 
@@ -18,11 +20,11 @@ next: '桌面版-如何安装主题包'
 
 3. 输入插件 URL 即可（插件链接以 .json 或 .js 结尾）
 
-::: info 💡示例插件
+::: 信息 💡示例插件
 如果要使用示例插件，输入下面链接：
 https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
 
-:::
+输入：:::
 
 ## 通过本地文件安装
 
